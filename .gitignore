@@ -1,0 +1,31 @@
+# Diretórios do .NET que não devem ser versionados
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Configurações do usuário no Visual Studio
+.vs/
+.idea/
+*.user
+*.suo
+
+# Arquivos temporários
+*.log
+*.cache
+*.temp
+Thumbs.db
+.DS_Store
+
+# Configuração do Docker
+docker-compose.override.yml
+.env
+
+# Dados e persistência do Prometheus e Grafana
+prometheus-data/
+grafana-data/
+
+# Arquivos de build do Blazor WebAssembly
+wwwroot/dist/
+wwwroot/_framework/
