@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RfgJO78hW9oEM5tbWae6DUjsTV79+fq9k9pRN3MooB8=",
+  "Source": "MeuProjetoAspire.ApiService",
+  "BasePath": "_content/MeuProjetoAspire.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

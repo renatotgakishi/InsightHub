@@ -1,0 +1,12 @@
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\bin\Debug\net9.0\MeuProjetoAspire.ServiceDefaults.deps.json
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\bin\Debug\net9.0\MeuProjetoAspire.ServiceDefaults.dll
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\bin\Debug\net9.0\MeuProjetoAspire.ServiceDefaults.pdb
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\obj\Debug\net9.0\MeuProjetoAspire.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\obj\Debug\net9.0\MeuProjetoAspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\obj\Debug\net9.0\MeuProjetoAspire.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\obj\Debug\net9.0\MeuProjetoAspire.ServiceDefaults.AssemblyInfo.cs
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\obj\Debug\net9.0\MeuProjetoAspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\obj\Debug\net9.0\MeuProjetoAspire.ServiceDefaults.dll
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\obj\Debug\net9.0\refint\MeuProjetoAspire.ServiceDefaults.dll
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\obj\Debug\net9.0\MeuProjetoAspire.ServiceDefaults.pdb
+C:\Users\renat\source\repos\MeuProjetoAspire\MeuProjetoAspire.ServiceDefaults\obj\Debug\net9.0\ref\MeuProjetoAspire.ServiceDefaults.dll
